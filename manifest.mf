@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: code.waterfalltrial
+Class-Path: lib/esri_mo20.jar lib/esri_mo20res.jar 
+X-COMMENT: Main-Class is in code directory
+
